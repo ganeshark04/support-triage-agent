@@ -1,0 +1,30 @@
+status,product_area,response,justification,request_type
+replied,general,For Claude support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to Claude support system,product_issue
+replied,assessments,For HackerRank support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to HackerRank support system,product_issue
+replied,billing,For Visa support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to Visa support system,product_issue
+replied,general,For HackerRank support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as bug and matched to HackerRank support system,bug
+replied,billing,For HackerRank support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to HackerRank support system,product_issue
+replied,general,For HackerRank support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to HackerRank support system,product_issue
+replied,general,For HackerRank support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as bug and matched to HackerRank support system,bug
+replied,assessments,For HackerRank support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to HackerRank support system,product_issue
+replied,assessments,For HackerRank support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as bug and matched to HackerRank support system,bug
+replied,assessments,For HackerRank support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as feature_request and matched to HackerRank support system,feature_request
+replied,general,For HackerRank support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to HackerRank support system,product_issue
+escalated,general,"Unable to determine service. Please specify HackerRank, Claude, or Visa.",Unknown domain,bug
+replied,general,For HackerRank support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to HackerRank support system,product_issue
+replied,general,For HackerRank support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to HackerRank support system,product_issue
+replied,general,For Claude support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as feature_request and matched to Claude support system,feature_request
+replied,general,For Visa support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to Visa support system,product_issue
+replied,general,For HackerRank support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to HackerRank support system,product_issue
+replied,assessments,For HackerRank support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to HackerRank support system,product_issue
+replied,billing,For Visa support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to Visa support system,product_issue
+replied,general,For Claude support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as bug and matched to Claude support system,bug
+replied,general,For Claude support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to Claude support system,product_issue
+replied,billing,For Visa support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to Visa support system,product_issue
+replied,general,For Claude support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to Claude support system,product_issue
+escalated,general,"Unable to determine service. Please specify HackerRank, Claude, or Visa.",Unknown domain,product_issue
+escalated,security,This is a sensitive issue and has been escalated.,Sensitive keywords detected,product_issue
+replied,general,For Claude support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as feature_request and matched to Claude support system,feature_request
+replied,account_access,For HackerRank support: Use 'Forgot Password' on login page. Please follow the instructions carefully.,Identified as product_issue and matched to HackerRank support system,product_issue
+replied,general,For Claude support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to Claude support system,product_issue
+replied,billing,For Visa support: Please check support documentation or contact support. Please follow the instructions carefully.,Identified as product_issue and matched to Visa support system,product_issue
